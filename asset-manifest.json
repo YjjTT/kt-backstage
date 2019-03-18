@@ -1,15 +1,15 @@
 {
-  "main.css": "/static/css/main.498b62fb.chunk.css",
-  "main.js": "/static/js/main.65e4d5d1.chunk.js",
-  "main.js.map": "/static/js/main.65e4d5d1.chunk.js.map",
-  "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
-  "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
-  "static/css/2.8b7e4b7b.chunk.css": "/static/css/2.8b7e4b7b.chunk.css",
-  "static/js/2.f8e5d837.chunk.js": "/static/js/2.f8e5d837.chunk.js",
-  "static/js/2.f8e5d837.chunk.js.map": "/static/js/2.f8e5d837.chunk.js.map",
-  "index.html": "/index.html",
-  "precache-manifest.d28815d21546b294a9a0238138e89bf7.js": "/precache-manifest.d28815d21546b294a9a0238138e89bf7.js",
-  "service-worker.js": "/service-worker.js",
-  "static/css/2.8b7e4b7b.chunk.css.map": "/static/css/2.8b7e4b7b.chunk.css.map",
-  "static/css/main.498b62fb.chunk.css.map": "/static/css/main.498b62fb.chunk.css.map"
+  "main.css": "/kt-backstage/static/css/main.498b62fb.chunk.css",
+  "main.js": "/kt-backstage/static/js/main.7e0031ba.chunk.js",
+  "main.js.map": "/kt-backstage/static/js/main.7e0031ba.chunk.js.map",
+  "runtime~main.js": "/kt-backstage/static/js/runtime~main.217811ff.js",
+  "runtime~main.js.map": "/kt-backstage/static/js/runtime~main.217811ff.js.map",
+  "static/css/2.8b7e4b7b.chunk.css": "/kt-backstage/static/css/2.8b7e4b7b.chunk.css",
+  "static/js/2.40464fa6.chunk.js": "/kt-backstage/static/js/2.40464fa6.chunk.js",
+  "static/js/2.40464fa6.chunk.js.map": "/kt-backstage/static/js/2.40464fa6.chunk.js.map",
+  "index.html": "/kt-backstage/index.html",
+  "precache-manifest.6a568baf3630ddfdb6ce906f7e9ff870.js": "/kt-backstage/precache-manifest.6a568baf3630ddfdb6ce906f7e9ff870.js",
+  "service-worker.js": "/kt-backstage/service-worker.js",
+  "static/css/2.8b7e4b7b.chunk.css.map": "/kt-backstage/static/css/2.8b7e4b7b.chunk.css.map",
+  "static/css/main.498b62fb.chunk.css.map": "/kt-backstage/static/css/main.498b62fb.chunk.css.map"
 }
