@@ -31,3 +31,114 @@
     transform: rotate(360deg);
   }
 }
+.clearfix::after{
+  content: '';
+  display: block;
+  clear: both;
+}
+.selectTerm{
+  border: 1px solid #000000;
+  width: 50%;
+  display: inline-block;
+}
+.selectTerm > span {
+  float: left;
+  background: #E2E2E2;
+  padding: 15px 15px;
+}
+.selectTerm > button {
+  margin: 10px 5px;
+  float: left;
+}
+.coachSelect{
+  border: 1px solid #000000;
+  width: 50%;
+  display: inline-block;
+}
+.coachSelect > span {
+  float: left;
+  background: #E2E2E2;
+  padding: 15px 15px;
+}
+.coachSelect > button {
+  margin: 10px 5px;
+  float: left;
+}
+
+.schoolTypeSelect{
+  border: 1px solid #000000;
+  width: 50%;
+  display: inline-block;
+}
+.schoolTypeSelect > span {
+  float: left;
+  background: #E2E2E2;
+  padding: 15px 15px;
+}
+.schoolTypeSelect > button {
+  margin: 10px 5px;
+  float: left;
+}
+
+.areaSelect{
+  border: 1px solid #000000;
+  width: 50%;
+  display: inline-block;
+}
+.areaSelect > span {
+  float: left;
+  background: #E2E2E2;
+  padding: 15px 15px;
+}
+.areaSelect > .area {
+  float: left;
+  margin: 10px 5px;
+}
+
+.schoolSelect{
+  border: 1px solid #000000;
+  width: 100%;
+  display: inline-block;
+}
+.schoolSelect > span {
+  float: left;
+  background: #E2E2E2;
+  padding: 15px 15px;
+}
+.schoolSelect > button {
+  margin: 10px 5px;
+  float: left;
+}
+
+.classSelect{
+  border: 1px solid #000000;
+  width: 100%;
+  display: inline-block;
+}
+.classSelect > span {
+  float: left;
+  background: #E2E2E2;
+  padding: 15px 15px;
+}
+.classSelect > button {
+  margin: 10px 5px;
+  float: left;
+}
+
+.periodSelect{
+  border: 1px solid #000000;
+  width: 100%;
+  display: inline-block;
+}
+.periodSelect > span {
+  float: left;
+  background: #E2E2E2;
+  padding: 15px 15px;
+}
+.periodSelect > button {
+  margin: 10px 5px;
+  float: left;
+}
+.radioParent > .radio {
+  float: left;
+}
